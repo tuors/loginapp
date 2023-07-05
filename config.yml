@@ -1,17 +1,13 @@
 credentials:
   usernames:
-    gtuor:
-      email: giantuor@gmail.com
-      name: Gian Tuor
+    abcdef:
+      email: abcdef@gmail.com
+      name: abcdef
       password: $2b$12$0Ojbcj7mL9aphL2XQ1ZvcuEhhS133WRSkAQvNoAsVB4XqjEVklktq
-    nengel:
-      email: nengel@gmail.com
-      name: Nina Engel
-      password: $2b$12$Op/SH2XQsyksvyp75NIxtO5HIwpZYDYQq9rcF4U18/fsCpUC7WC3i
   cookie:
     expiry_days: 1
     key: some_signature_key # Must be string
     name: some_cookie_name
   preauthorized:
     emails:
-    - giantuor@gmail.com
+    - abcdef@gmail.com
